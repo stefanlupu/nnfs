@@ -1,0 +1,1 @@
+Implementing neural networks from scratch following [this book](https://nnfs.io/).
